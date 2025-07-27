@@ -1,0 +1,54 @@
+# Credit Card Analysis – Mitron Bank
+
+This project analyzes customer demographics and transaction behavior to identify key segments and help Mitron Bank improve credit card adoption through data-driven marketing strategies.
+
+---
+
+## Objective
+
+To provide actionable insights into customer segments, credit card usage patterns, and regional spending trends using data analysis and visualization.
+
+---
+
+## Tools & Technologies Used
+
+- **Python** – Pandas, NumPy, Matplotlib, Seaborn
+- **SQL** – For querying and transforming raw datasets
+- **Tableau** – For creating interactive dashboards
+- **Excel** – For preliminary analysis
+
+---
+
+## Key Analyses
+
+1. **Customer Segmentation**
+   - Based on age, income, location, and credit card usage
+2. **Transaction Behavior**
+   - Spending categories, frequency, and seasonality
+3. **Adoption Insights**
+   - Identifying customer groups likely to adopt new credit products
+4. **Marketing Recommendations**
+   - Personalized offers and high-potential target segments
+
+---
+
+## Dashboards
+
+> Tableau dashboards include:
+- Top spenders by location and category
+- Category-wise transaction heatmap
+- Monthly and seasonal spending trends
+
+> *Screenshots available in the `/dashboard` folder.*  
+> *Live dashboard link coming soon.*
+
+---
+
+## Outcomes
+
+- Identified under-targeted high-income younger segment
+- Helped define new customer personas for marketing
+- Created interactive dashboards for business teams
+
+---
+
